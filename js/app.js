@@ -5,14 +5,14 @@ var gApp = angular.module('gApp', []);
     	$rootScope.title = "Portfolio";
     	$rootScope.name = "조원희";
 		$rootScope.MenuList = [
-			"안녕하세요 저는 모든일에 최선을 다하는 한예나입니다.",
-			"항상 긍적인 마인드로 문제를 해결해나가겠습니다.",
-		    "감사합니다.",
-		    "보유기술은 아래와 같습니다.",
+			"안녕하세요 웹프로그래머를 꿈꾸는 남자 조원희입니다.",
+            		"저의 프로젝트를 정리하는 포토폴리오 사이트입니다.",
+		    	"재미있게봐주세요 보유기술은 아래와 같습니다.",
 			"- JAVA : Spring, JSP.Servlet",
 			"- Front end: HTML & CSS & Javascript",
-			"- Database : mysql",
-			"- OS: Linux, Windows"
+			"- Database : mysql & mssql",
+			"- OS: Linux, Windows",
+            "- Hadoop : MapReduce"
 			];
 		
     });
