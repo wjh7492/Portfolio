@@ -60,7 +60,7 @@ var gApp = angular.module('gApp', []);
 			 title: "Team",
 			 name: "Impression",
 			 img: "team/movie.PNG",
-			 img2: "team/movie.png",
+			 img2: "team/movie.PNG",
 			 type : true, 
 			 contents: ""
 			},{
