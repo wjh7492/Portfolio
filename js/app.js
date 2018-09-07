@@ -86,8 +86,8 @@ var gApp = angular.module('gApp', []);
 			 url : "https://www.youtube.com/embed/sq5tDBYd_aw", 
 			 title: "Personal",
 			 name: "Media",
-			 img: "personal/Media.PNG",
-			 img2: "personal/Media.PNG",
+			 img: "personal/Media.png",
+			 img2: "personal/Media.png",
 			 type : false, 
 			 contents: ""
 			}
