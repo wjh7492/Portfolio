@@ -59,7 +59,7 @@ var gApp = angular.module('gApp', []);
 			 url : "team/team1.pdf", 
 			 title: "Team",
 			 name: "Impression",
-			 img: "team/movie.png",
+			 img: "team/movie.PNG",
 			 img2: "team/movie.png",
 			 type : true, 
 			 contents: ""
@@ -68,7 +68,7 @@ var gApp = angular.module('gApp', []);
 			 url : "personal/movinity.pdf", 
 			 title: "Personal",
 			 name: "Impression",
-			 img: "personal/movie.png",
+			 img: "personal/movie.PNG",
 			 img2: "personal/movinity.gif",
 			 type : false,
 			 contents: ""
@@ -77,7 +77,7 @@ var gApp = angular.module('gApp', []);
 			 url : "personal/personal.pdf", 
 			 title: "Personal",
 			 name: "Impression",
-			 img: "personal/MMR.png",
+			 img: "personal/MMR.PNG",
 			 img2: "personal/MMR.gif",
 			 type : false,
 			 contents: ""
@@ -86,8 +86,8 @@ var gApp = angular.module('gApp', []);
 			 url : "https://www.youtube.com/embed/sq5tDBYd_aw", 
 			 title: "Personal",
 			 name: "Media",
-			 img: "personal/Media.png",
-			 img2: "personal/Media.png",
+			 img: "personal/Media.PNG",
+			 img2: "personal/Media.PNG",
 			 type : false, 
 			 contents: ""
 			}
