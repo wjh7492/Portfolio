@@ -69,7 +69,7 @@ var gApp = angular.module('gApp', []);
 			 title: "Personal",
 			 name: "Impression",
 			 img: "personal/movie.PNG",
-			 img2: "personal/movinity.gif",
+			 img2: "personal/Movinity.gif",
 			 type : false,
 			 contents: ""
 			},{
