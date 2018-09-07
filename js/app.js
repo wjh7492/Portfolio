@@ -65,11 +65,11 @@ var gApp = angular.module('gApp', []);
 			 contents: ""
 			},{
 			 path: "portfolio/",
-			 url : "personal/movinity.pdf", 
+			 url : "personal/Movinity.pdf", 
 			 title: "Personal",
 			 name: "Impression",
 			 img: "personal/movie.PNG",
-			 img2: "personal/Movinity.gif",
+			 img2: "personal/movinity.gif",
 			 type : false,
 			 contents: ""
 			},{
