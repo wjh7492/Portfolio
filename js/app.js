@@ -74,7 +74,7 @@ var gApp = angular.module('gApp', []);
 			 contents: ""
 			},{
 			 path: "portfolio/",
-			 url : "personal/personal.pdf", 
+			 url : "personal/MMR.pdf", 
 			 title: "Personal",
 			 name: "Impression",
 			 img: "personal/MMR.PNG",
