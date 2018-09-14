@@ -56,7 +56,7 @@ var gApp = angular.module('gApp', []);
 		$scope.dataSource = [
 			{
 			 path: "portfolio/",
-			 url : "team/team1.pdf", 
+			 url : "team/movinityui.pdf", 
 			 title: "Team",
 			 name: "Impression",
 			 img: "team/movie.PNG",
@@ -69,7 +69,7 @@ var gApp = angular.module('gApp', []);
 			 title: "Personal",
 			 name: "Impression",
 			 img: "personal/movie.PNG",
-			 img2: "personal/movinity.gif",
+			 img2: "personal/Movinity.gif",
 			 type : false,
 			 contents: ""
 			},{
